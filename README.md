@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AntoinePiron/AntoinePiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello, welcome to my GitHub page ! I'm [Antoine](https://github.com/AntoinePiron) ✌️
+
+- 🌱 I am currently studying at [INSA Lyon](https://www.insa-lyon.fr) in the "Telecommunications Services and Usage" department
+- 🔭 I am currently working on the development of a smartphone [application 📱](https://gitlab.com/AntoinePRN/tvs) under Unity
+- 📫 How to reach me: [pro.piron.antoine@gmail.com](mailto:pro.piron.antoine@gmail.com)
