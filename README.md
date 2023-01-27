@@ -5,6 +5,9 @@
 - 📺 You can check one of my realisation [here](https://astustc.fr)
 - 📫 How to reach me: [pro.piron.antoine@gmail.com](mailto:pro.piron.antoine@gmail.com)
 
+---
+
+### My Coding stats 📈
 <!--START_SECTION:waka-->
 
 ```text
