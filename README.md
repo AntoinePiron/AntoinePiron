@@ -9,7 +9,7 @@
 
 ### My Coding stats 📈
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2053%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,5 +80,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2023 14:07:11 UTC
+ Last Updated on 05/06/2023 14:07:31 UTC
 <!--END_SECTION:waka-->
