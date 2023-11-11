@@ -50,16 +50,16 @@ Sunday                   12008 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Studio                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DMO                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +75,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2023 14:12:52 UTC
+ Last Updated on 11/11/2023 14:12:27 UTC
 <!--END_SECTION:waka-->
