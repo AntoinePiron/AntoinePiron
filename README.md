@@ -50,17 +50,16 @@ Sunday                   13268 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 5 mins              ██████████████████░░░░░░░   72.78 % 
-.env file                2 mins              ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-website                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +75,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2023 14:14:51 UTC
+ Last Updated on 29/12/2023 14:12:55 UTC
 <!--END_SECTION:waka-->
