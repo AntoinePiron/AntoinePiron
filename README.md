@@ -8,7 +8,7 @@
 
 ### My Coding stats 📈
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,16 +47,17 @@ Sunday                   16560 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               8 mins              ██████████████████░░░░░░░   72.36 % 
+JSON                     3 mins              ███████░░░░░░░░░░░░░░░░░░   27.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+react-app                11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +73,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2024 14:15:58 UTC
+ Last Updated on 18/04/2024 14:17:57 UTC
 <!--END_SECTION:waka-->
