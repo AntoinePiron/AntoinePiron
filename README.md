@@ -8,6 +8,8 @@
 
 ### My Coding stats 📈
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%209%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 102.2 kB Used in GitHub's Storage 
@@ -20,6 +22,45 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1181 commits        ███████████░░░░░░░░░░░░░░   42.70 % 
+🌆 Daytime                849 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+🌃 Evening                725 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   457 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  429 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Wednesday                869 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Thursday                 354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Saturday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -33,5 +74,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 13:55:35 UTC
+ Last Updated on 24/09/2025 13:56:08 UTC
 <!--END_SECTION:waka-->
